@@ -10,4 +10,5 @@ setup(name='vcard-splitter',
       author_email='s@muel.coffee',
       license='MIT',
       packages=['vcard-splitter'],
+      zip_safe=False,
       long_description='A simple vCard splitter that, from one big vCard file containing multiple contact, create multiple vCard files (one for each contact) in the desired output directory with the desired name format.')
