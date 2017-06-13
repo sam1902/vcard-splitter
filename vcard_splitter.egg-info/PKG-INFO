@@ -1,0 +1,10 @@
+Metadata-Version: 1.0
+Name: vcard-splitter
+Version: 0.1
+Summary: A simple vCard splitter
+Home-page: https://github.com/sam1902/vcard-splitter
+Author: Samuel Prevost
+Author-email: s@muel.coffee
+License: MIT
+Description: A simple vCard splitter that, from one big vCard file containing multiple contact, create multiple vCard files (one for each contact) in the desired output directory with the desired name format.
+Platform: UNKNOWN
